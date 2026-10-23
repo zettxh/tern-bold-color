@@ -1,0 +1,6 @@
+schema = 1
+id = "bold-color"
+name = "Bold Color"
+version = "1.0.0"
+description = "Color bold Markdown in the OMP session using the configurable Tern theme token in window.luau (default: warning)."
+window = "window.luau"
